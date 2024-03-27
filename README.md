@@ -32,7 +32,3 @@ To use the Meal Finder App, follow these steps:
 ## API Documentation
 
 For more information about the themealdb.com API and its endpoints, refer to the [API Documentation](https://www.themealdb.com/api.php).
-
-## File Path
-
-This README file is located at /Users/worananhernandez/Documents/Coursework/Javascript/Meal-finder/README.md.
